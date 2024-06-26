@@ -1,2 +1,3 @@
 enmotech/opengauss:3.0.0
 mysql
+redis
